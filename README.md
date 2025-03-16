@@ -7,6 +7,9 @@ after finishing a simple C++ tutorial in 'w3schools.com', Now in 'Github' I want
 - creating a branch for every intresting things that I learned while solving different problems and creating Projects.
 - creating a branch for what should I learn to getting better and better every single day
 
+And I will appreciate everyone who reads this README file and sending me questions and projects in C++ that seems intresting to them in every skill levels,
+I promise that eventually I will understand how to solve them as I'm growing.
+
 In addition I'm completetly new in 'github' and using it, so why not learning it too !!
 That's it !! This README file is getting updates...
 
